@@ -1,0 +1,49 @@
+body {
+  background: #0a043c;
+  margin: 40px 40px 40px 40px;
+  font-family: "Exo 2", sans-serif;
+}
+
+ul {
+  text-align: left;
+  text-justify: inter-word;
+  padding: 10px auto;
+}
+
+span {
+  color: #0a043c;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.container {
+  background-color: #03506f;
+  color: #ffe3d8;
+  padding: 50px auto;
+  border: double #ffe3d8 5px;
+}
+.text-center {
+  color: #bbbbbb;
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+}
+.img {
+  background-image: url("me-1.jpeg");
+  max-width: 600px;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  margin: 30px auto;
+  border-radius: 50px 50px 50px 50px;
+}
+
+.row {
+  margin: auto;
+  font-size: 20px;
+  line-height: 1.8;
+}
+
+.underline {
+  text-decoration: underline;
+}
